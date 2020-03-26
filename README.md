@@ -7,6 +7,6 @@ This repository contains a few public files summarizing forecasted instrument pe
 - *galaxy_density_v28_base_cbe.txt* contains SPHEREx forecasted number density and bias for fives samples for multiple redshift bins. Each line corresponds to a subsample defined by redshift uncertainty, respectively sigma(z)/(1+z) = 0 - 0.003, 0.003 - 0.01, 0.01 - 0.03, 0.03 - 0.1, 0.1 - 0.2.
 - *FWHM_v28_base_cbe.txt* contains the effective FWHM (optical PSF plus pointing jitter) as a function of wavelength.
 
-Pixels are squared with width of 6.2 arcsec. More detailed about the mission and its design can be found on the SPHEREx mission website (Link)[https://spherex.caltech.edu].
+Pixels are squared with width of 6.2 arcsec. More detailed about the mission and its design can be found on the SPHEREx mission website [https://spherex.caltech.edu].
 
 Please contact Olivier (olivier.dore@caltech.edu) if you have any question.
