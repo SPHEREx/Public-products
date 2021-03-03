@@ -9,4 +9,4 @@ This repository contains a few public files summarizing forecasted instrument pe
 
 Pixels are squared with width of 6.2 arcsec. The sensitivities above assume the full 2 year nominal mission. More detailed about the mission and its design can be found on the SPHEREx mission website [https://spherex.caltech.edu].
 
-Please contact Olivier (olivier.dore@caltech.edu) if you have any question.
+Please contact Olivier (olivier.dore@caltech.edu) if you have any question. Please add "Courtesy NASA/JPL-Caltech" if you use the graphics in presentation.
