@@ -7,9 +7,8 @@ This repository contains a few public files summarizing forecasted instrument pe
 - *galaxy_density_v28_base_cbe.txt* contains SPHEREx forecasted galaxy number density and bias for fives samples for multiple galaxy redshift bins. Each line corresponds to a subsample defined by galaxy redshift uncertainty, respectively sigma(z)/(1+z) <= 0 - 0.003, 0.003 - 0.01, 0.01 - 0.03, 0.03 - 0.1, 0.1 - 0.2  (the worst redshift uncertainty is assumed for each bin).
 - *FWHM_v28_base_cbe.txt* contains the effective FWHM (optical PSF plus pointing jitter) as a function of wavelength.
 - *spherex_solar_system_obs.zip* contains SPHEREx's observation times and wavelength of observation for seven solar system objects:
-(55P-Tempel-Tuttle (comet), Hilda, Vedrana, and Hungaria (main belt asteroids), Odysseus (Jovian Trojan), Chaos (trans-Neptunian object), and Phaethon (PHA - potentially hazardous asteroid) ), for a representative SPHEREx sky survey plan lasting two years.  The data files are ascii table with a title corresponding to the object.  Each file contains two columns: Modified Julian Date (MJD) and wavelength ($\mu$m) at which SPHEREx will observe the object at the given time.
-
+(55P-Tempel-Tuttle (comet), Hilda, Vedrana, and Hungaria (main belt asteroids), Odysseus (Jovian Trojan), Chaos (trans-Neptunian object), and Phaethon (PHA - potentially hazardous asteroid) ), for a representative SPHEREx sky survey plan lasting two years.  The data files are ascii table with a title corresponding to the object. Each file contains two columns: Modified Julian Date (MJD) and wavelength ($\mu$m) at which SPHEREx will observe the object at the given time. This product was used in this paper XXX.
 
 Pixels are squared with width of 6.2 arcsec. The sensitivities above assume the full 2 year nominal mission. More detailed about the mission and its design can be found on the SPHEREx mission website [https://spherex.caltech.edu].
 
-Please contact Olivier (olivier.dore@caltech.edu) if you have any question. Please add "Courtesy NASA/JPL-Caltech" if you use the graphics in presentation.
+Please contact Olivier (olivier.dore--AT--caltech.edu) if you have any question. Please add "Courtesy NASA/JPL-Caltech" if you use the graphics in presentation.
